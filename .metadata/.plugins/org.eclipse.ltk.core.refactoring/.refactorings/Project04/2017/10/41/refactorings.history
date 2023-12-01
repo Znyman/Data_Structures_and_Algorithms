@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CpuTimer.java&apos; to &apos;Project04/src/zacheryNyman&apos;&#x0D;&#x0A;- Original project: &apos;Project04&apos;&#x0D;&#x0A;- Destination element: &apos;Project04/src/zacheryNyman&apos;&#x0D;&#x0A;- Original element: &apos;CpuTimer.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;zacheryNyman" element1="CpuTimer.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1507432035299" units="0" version="1.0"/>
+</session>

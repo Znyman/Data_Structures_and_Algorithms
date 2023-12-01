@@ -1,0 +1,12 @@
+2
+Car54              0     2
+Mater              0     99
+MadMax             0     1
+McQueen            1     5
+Furthur            1     99
+MustangSally       1     10
+HotRodLincoln      1     11
+YellowSubmarine    2     8
+Kit                2     11
+Batmobile          2     1
+Herbie             3     15
